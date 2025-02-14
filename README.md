@@ -1,18 +1,19 @@
-## Getting Started
+# Website Testing Using Selenium
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## 📌 Project Description
+This project focuses on automating and testing the **Flipkart website** using **Selenium WebDriver**. The goal is to ensure that various functionalities, such as search, navigation, and page verification, work correctly. 
 
-## Folder Structure
+## 🚀 Features
+- Automated browser interactions using Selenium.
+- Page title verification and validation.
+- Search functionality testing.
+- Data-driven testing with test cases.
+- Screenshot capture for failed test cases.
 
-The workspace contains two folders by default, where:
+## 🛠️ Technologies Used
+- **Programming Language**: Java  
+- **Testing Framework**: Selenium WebDriver  
+- **Browser**: Google Chrome  
+- **IDE**: VS Code  
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
