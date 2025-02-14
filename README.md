@@ -1,7 +1,7 @@
 # Website Testing Using Selenium
 
 ## 📌 Project Description
-This project focuses on automating and testing the **Flipkart website** using **Selenium WebDriver**. The goal is to ensure that various functionalities, such as search, navigation, and page verification, work correctly. 
+This project focuses on automating and testing the **e-commerce website** using **Selenium WebDriver**. The goal is to ensure that various functionalities, such as search, navigation, and page verification, work correctly. 
 
 ## 🚀 Features
 - Automated browser interactions using Selenium.
